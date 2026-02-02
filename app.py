@@ -1,8 +1,8 @@
 # app.py
 import sys
 from PySide6.QtWidgets import QApplication
-from db import init_db
-from ui_main import MainWindow
+from src.db import init_db
+from src.ui_main import MainWindow
 
 def main():
     init_db()
