@@ -14,3 +14,7 @@ All feedback are open
 
 Commit, git tysm
 Thank you so much
+
+Edit:
+I've improved the structure
+and modified some file to make it installable
